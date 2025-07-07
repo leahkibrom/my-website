@@ -99,10 +99,8 @@
       color: #555;
     }
   </style>
-</head>
-<body>
     </head>
-    <body>    <!-- Navigation -->
+    <body>   
       <header>
         </div>
         <nav>
@@ -113,7 +111,7 @@
         </nav>
         <!-- Added cw.jpg centered next to the nav-links -->
         <div style="display: flex; align-items: center; justify-content: center; margin-left: 20px;">
-          <img src="cw.jpg" alt="Charity Water" style="max-width: 80px; border-radius: 8px;">
+          <img src="cw.jpg" style="max-width: 80px; border-radius: 8px;">
         </div>
       </header>
       <!-- Hero Section -->
@@ -124,7 +122,7 @@
         <a class="cta-button" href="#">Donate Now</a>
         <!-- Added Zimbabwe_2022_CG-0382.jpg under the donate now button -->
         <div style="margin-top: 30px;">
-          <img src="Zimbabwe_2022_CG-0382.jpg" alt="Zimbabwe 2022 Charity Water" style="max-width: 400px; width: 100%; border-radius: 10px;">
+          <img src="Zimbabwe_2022_CG-0382.jpg" style="max-width: 400px; width: 100%; border-radius: 10px;">
         </div>
       </section>
       </div>
