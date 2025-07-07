@@ -1,4 +1,3 @@
-# my-website
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -125,4 +124,3 @@
           <img src="Zimbabwe_2022_CG-0382.jpg" style="max-width: 400px; width: 100%; border-radius: 10px;">
         </div>
       </section>
-      </div>
